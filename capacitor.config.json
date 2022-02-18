@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Test modal with menu swipe gesture",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
